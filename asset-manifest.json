@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HM-Router/static/css/main.0b3f88bb.css",
+    "main.js": "/HM-Router/static/js/main.0baef0bf.js",
+    "index.html": "/HM-Router/index.html",
+    "main.0b3f88bb.css.map": "/HM-Router/static/css/main.0b3f88bb.css.map",
+    "main.0baef0bf.js.map": "/HM-Router/static/js/main.0baef0bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3f88bb.css",
+    "static/js/main.0baef0bf.js"
+  ]
+}
